@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhujel12
 
-- 👀 I’m interested in development mobile apps and someday working on web applications too. 
+- 👀 I’m interested in developing mobile apps and someday working on web applications too. 
 I have an interest in finance and business so I want to incorporate those things into my journey
 and make it all the more interesting
 
