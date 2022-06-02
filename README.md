@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhujel12
+- 👋 Hi, I’m Anish Bhujel!
 
 - 👀 I’m interested in developing mobile apps and someday working on web applications too. 
 I have an interest in finance and business so I want to incorporate those things into my journey
